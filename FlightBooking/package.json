@@ -1,0 +1,36 @@
+{
+  "name": "flightbooking",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.5.2",
+    "react-16-bootstrap-date-picker": "^5.1.2",
+    "react-bootstrap": "^0.32.4",
+    "react-bootstrap-date-picker": "^5.1.0",
+    "react-dom": "^16.5.2",
+    "react-overlay": "^0.1.7",
+    "react-overlays": "^0.8.3",
+    "react-redux": "^5.0.7",
+    "react-router": "^3.2.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.0.4",
+    "redux": "^4.0.1",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
